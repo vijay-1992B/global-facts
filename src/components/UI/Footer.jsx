@@ -62,7 +62,7 @@ export const Footers = () => {
                 <li>
                   <NavLink
                     className="nav-link"
-                    to="/"
+                    to="https://github.com/vijay-1992B/global-facts"
                   >
                     Source Code
                   </NavLink>
